@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Richardzleung
-- 👀 I’m interested in a junior full stack developer role!
-- 🌱 I’m currently learning SQL!
+- 👋 Hi, I’m Richard Leung
+- 👀 I’m interested in a full stack developer role!
+- 🌱 I’m currently applying for jobs!
 - 💞️ I’m looking to collaborate on pretty much anything haha. I'm always down to learn more!
 - 📫 How to reach me richardzleung@gmail.com
 
