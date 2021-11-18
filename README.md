@@ -1,8 +1,7 @@
 # 👋 Hi, I’m Richard Leung!
-- 👀 I’m interested in a full stack developer role!
+- 👀 I’m probably writing unit tests right now
 - 🏫 Recent grad from appAcademy
 - 🌱 I’m currently a UX engineer at Lark!
-- 💞️ I’m looking to collaborate on pretty much anything haha. I'm always down to learn more!
 - 📫 How to reach me richardzleung@gmail.com
 
 ## Languages and Tools 🛠️
